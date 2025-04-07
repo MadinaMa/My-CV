@@ -1,10 +1,10 @@
 import './App.css';
-import html from './HTMLcssEn.png';
-import bootstrap from './bootstrapEn.png';
-import figma from './gsapFigmaEn.png';
-import js from './JSeng.png';
-import node from './NodeEn.png';
-import react from './ReactReduxEn.png';
+import html from './pic/HTMLcssEn.png';
+import bootstrap from './pic/bootstrapEn.png';
+import figma from './pic/gsapFigmaEn.png';
+import js from './pic/JSeng.png';
+import node from './pic/NodeEn.png';
+import react from './pic/ReactReduxEn.png';
 
 function Certificates() {
     return (<div>
