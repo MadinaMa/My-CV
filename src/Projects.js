@@ -1,10 +1,10 @@
 import './App.css';
-import resto from './caucresto.png';
-import ksk from './ksk.png';
-import arsmebel from './arsmebel.png';
-import numerology from './numerology.png';
-import weather from './weather.png';
-import election from './election.png';
+import resto from './pic/caucresto.png';
+import ksk from './pic/ksk.png';
+import arsmebel from './pic/arsmebel.png';
+import numerology from './pic/numerology.png';
+import weather from './pic/weather.png';
+import election from './pic/election.png';
 
 function Projects() {
     return (
